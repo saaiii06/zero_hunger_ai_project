@@ -1,0 +1,21 @@
+state,district,crop,year,season,rainfall,temperature,yield
+Karnataka,Bangalore,rice,2018,Kharif,210.0,21.0,3.2
+Karnataka,Bangalore,maize,2018,Kharif,150.0,23.0,2.8
+Punjab,Ludhiana,wheat,2019,Rabi,120.0,25.0,4.0
+Punjab,Ludhiana,sugarcane,2019,Whole Year,230.0,28.0,6.5
+Maharashtra,Nagpur,cotton,2020,Kharif,180.0,19.0,2.5
+Maharashtra,Nagpur,rice,2020,Kharif,200.0,20.5,3.0
+Karnataka,Bangalore,wheat,2021,Rabi,110.0,24.0,3.8
+Punjab,Ludhiana,maize,2021,Kharif,140.0,22.5,2.9
+Maharashtra,Nagpur,sugarcane,2022,Whole Year,220.0,27.0,6.2
+Karnataka,Bangalore,cotton,2022,Kharif,170.0,18.5,2.3
+Uttar Pradesh,Kanpur,barley,2019,Rabi,130.0,18.0,3.5
+Uttar Pradesh,Kanpur,soybean,2020,Kharif,160.0,26.0,2.7
+Kerala,Trivandrum,banana,2021,Whole Year,250.0,29.0,7.0
+Gujarat,Ahmedabad,sugarbeet,2022,Rabi,180.0,20.0,5.2
+Andhra Pradesh,Guntur,groundnut,2021,Kharif,190.0,27.0,2.9
+Madhya Pradesh,Bhopal,barley,2020,Rabi,135.0,17.5,3.7
+Madhya Pradesh,Bhopal,soybean,2022,Kharif,165.0,25.5,2.8
+Kerala,Trivandrum,banana,2022,Whole Year,255.0,28.5,7.2
+Gujarat,Ahmedabad,sugarbeet,2021,Rabi,185.0,19.5,5.0
+Andhra Pradesh,Guntur,groundnut,2022,Kharif,195.0,26.5,3.0

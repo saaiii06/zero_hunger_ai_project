@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.env
+*.pkl
+*.joblib
+.DS_Store
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
